@@ -11,8 +11,8 @@
 ## 📸 Preview
 
 <p align="center">
-  
-<img width="1365" height="598" alt="image" src="https://github.com/user-attachments/assets/dfe24957-6521-4ddd-bd5f-49388b6a807b" />
+<img width="1353" height="612" alt="image" src="https://github.com/user-attachments/assets/199c52b1-e589-492f-bac8-04d50ad0b853" />
+
 
 </p>
 
