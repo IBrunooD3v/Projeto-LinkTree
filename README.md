@@ -100,7 +100,7 @@ LinkTree-main/
 | 📸 | Instagram | [@ibrunood3v](https://www.instagram.com/ibrunood3v/) |
 | 💼 | LinkedIn | [brunocarus](https://www.linkedin.com/in/brunocarus/) |
 | 😼 | GitHub | [IBrunooD3v](https://github.com/IBrunooD3v) |
-| 🎶 | Spotify | [IBrunooD3v]([https://github.com/IBrunooD3v](https://open.spotify.com/user/31j4w6lwgv3mcnxr5bgosbkyjxzi?si=5587925f1bce43b9)) |
+| 🎶 | Spotify | [IBrunooD3v](https://open.spotify.com/user/31j4w6lwgv3mcnxr5bgosbkyjxzi?si=5587925f1bce43b9)) |
 
 ---
 
